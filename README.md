@@ -1,2 +1,3 @@
 # Notes-App
-Notes app basic implementation of JS. It saves the notes also. source code in the repository! 😊
+Notes app made using basic JS. It saves the notes also. source code is in the repository! 
+good day! 😊
