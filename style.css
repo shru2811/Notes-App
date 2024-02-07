@@ -1,0 +1,61 @@
+*{
+  font-family: Poppins, sans-serif;
+}
+h1{
+  color: white;
+}
+body{
+  background: linear-gradient(-90deg, rgba(2,0,36,1) 0%, rgba(39,9,121,1) 0%, rgba(214,0,255,1) 100%);
+}
+.top{
+  margin-top: 5%;
+  margin-left: 5%;
+  width: 11%;
+  display: flex;
+  justify-content: space-between;
+}
+.img{
+  height: 80px;
+  width: 80px;
+}
+.btn{
+  width: 200px;
+  height: 40px;
+  border-radius: 20px;
+  border:none;
+  margin-top: 10px;
+  margin-left: 5% ;
+  font-size: 20px;
+  background: linear-gradient(#9418fd, #571094);
+  color: aliceblue;
+  cursor: pointer;
+}
+
+.img1{
+  height: 20px;
+  width: 20px;
+}
+
+.text-boxes{
+  background-color: #fff;
+  position: relative;
+  width: 100%;
+  max-width: 500px;
+  min-height: 150px;
+  color: #333;
+  outline: none;
+  border-radius: 5px;
+  margin: 20px;
+  margin-left: 5%;
+  padding: 20px;
+}
+.container{
+  margin-left: 10%;
+}
+.text-boxes>img{
+  width: 25px;
+  position: absolute;
+  bottom: 15px;
+  right: 15px;
+  cursor: pointer;
+}
